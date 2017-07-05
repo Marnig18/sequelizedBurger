@@ -1,0 +1,97 @@
+body{
+	background-color: #ed9b40;
+	box-sizing: border-box;
+}
+
+
+
+img{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	margin-left: 80px;
+}
+
+h1{
+	font-weight: 700;
+	font-family: 'Chivo', sans-serif;
+	font-style: italic;
+	font-size: 48px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+p{
+	font-family: 'Chivo', sans-serif;
+	
+
+}
+
+li{
+	background-color: #E84855;
+	margin: 10px;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 20px;
+	color: #540d6e
+
+}
+
+
+form{
+	text-align: center;
+	padding-top: 20px; 
+
+}
+
+#devourBtn{
+	
+	text-align: center;
+	margin-bottom: 10px;
+	padding: 2px 12px 0 12px;
+	background-color: #540D6e;
+	color: white;
+	border: none;
+	
+	
+	
+}
+
+
+
+#submitBtn{
+	margin: 10px;
+	padding: 2px 12px;
+	background-color: #540D6e;
+	color: white;
+	border: none;
+
+}
+
+#fullDiv{
+	background-color: #ffffff;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 200px;
+	bottom: 150px;
+
+
+}
+
+#ateDiv{
+	background-color: #ffffff;
+	width: 100px;
+	height: 100px;
+	display: inline;
+	float: right;
+	position: relative;
+	right: 200px;
+	bottom: 250px;
+}
+
+
+
+
+	
+
